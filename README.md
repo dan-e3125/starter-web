@@ -1,6 +1,7 @@
 # Starter Web Project
 
-This repository is for showing how Git and GitHub work
+This is ai simple website project for 
+showing how to use Git and GitHub together
 
 ## Introduction
 
