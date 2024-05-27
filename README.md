@@ -1,8 +1,6 @@
 # Starter Web Project
 
-This is ai simple website project for showing how to use Git and GitHub together. 
-
-Adding a line for rebasing example, then more changes from myfeature branch too.
+This is ai simple website project for showing how to use Git and GitHub together. Updating for emergency fix after stashing.
 
 ## Introduction
 
